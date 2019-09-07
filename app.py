@@ -1,4 +1,5 @@
-name = "Krishna"
-"Hello Krishna"
-"Hello Ranju"
+name = "DevOps"
+print "Hello Krishna"
+print "Hello Ranju"
+
 
